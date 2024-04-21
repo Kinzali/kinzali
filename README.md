@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I am Kinza </h1>
-<h3 align="center"> A Data Analyst</h3>
+<h3 align="center"> Data & IT Enthusiast </h3>
 
 <img src="https://rte.mx/wp-content/uploads/2020/05/LinesCreatives_animation-9.gif" alt="Coding" width="400" align="right">
 
@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 I'm a budding Data Analyst 📊, eager to explore the fascinating world of data and its endless possibilities. Based in Finland, I bring a fresh perspective and a hunger for learning to every project I tackle.
 
-- 🔭 As a newcomer to the field, I'm enthusiastically diving into the realm of data analysis, eager to sharpen my skills and make meaningful contributions.
+- 🔭 As a newcomer, I'm enthusiastically diving into data analysis, eager to sharpen my skills and make meaningful contributions.
 - 🌐 I'm on a continuous journey of discovery, eagerly exploring new tools and techniques to expand my knowledge and capabilities.
-- 💡 Outside of my professional endeavors, I enjoy immersing myself in problem-solving challenges and soaking up insights from tech resources.
+- 💡 Outside of my professional endeavours, I enjoy immersing myself in problem-solving challenges and soaking up insights from tech resources.
 
-With a blend of enthusiasm and determination, I'm ready to embark on an exciting adventure in the world of data analysis.
+With a blend of enthusiasm and determination, I'm ready to embark on an exciting adventure in data analysis.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
