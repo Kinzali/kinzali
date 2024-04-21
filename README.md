@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I am Kinza </h1>
 <h3 align="center"> Data & IT Enthusiast </h3>
 
-<img src="https://rte.mx/wp-content/uploads/2020/05/LinesCreatives_animation-9.gif" alt="Coding" width="400" align="right">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kinzali&label=Profile%20views&color=0e75b6&style=flat" alt="kinzali" /> </p>
 
 
 
