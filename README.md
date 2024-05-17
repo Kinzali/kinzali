@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I am Kinza </h1>
-<h3 align="center"> Data & IT Enthusiast </h3>
+<h3 align="center"> AI Software developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinzali&label=Profile%20views&color=0e75b6&style=flat" alt="kinzali" /> </p>
 
